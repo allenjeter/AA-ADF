@@ -6,3 +6,5 @@ This repository collects Adware Definition Files (ADF) for [SavingThrow](https:/
 To use, feel free to fork, or download and self-host with your own modifications for your own organization.
 
 Contributions are welcome! (Use Pull Requests to add or correct an ADF).
+
+This is a change
